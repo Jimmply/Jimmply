@@ -73,18 +73,10 @@ M.S. Engineering (Microelectronics) · Data Science, UCLA Extension · Northridg
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
----
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jimmply&show_icons=true&theme=default&hide_border=true&count_private=false&include_all_commits=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmply&layout=compact&theme=default&hide_border=true&langs_count=6" height="150"/>
-</p>
 
 ---
 
 ## Contact
 
-📧 etozhejimmy@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/etozhejimmy) &nbsp;·&nbsp; 📊 [Kaggle](https://kaggle.com/jimmysh) &nbsp;·&nbsp; 📍 Northridge, CA — open to Manufacturing Data Scientist roles
+etozhejimmy@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/etozhejimmy) &nbsp;·&nbsp; 📊 [Kaggle](https://kaggle.com/jimmysh) &nbsp;·&nbsp; 📍 Northridge, CA — open to Manufacturing Data Scientist roles
