@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **B.S. Data Science** | UCLA (in progress, Spring 2027) |
+| **M.S. Data Science** | UCLA (in progress, Spring 2028) |
 | **Data Science Certificate** | UCLA Extension — 2026 |
 | **M.S. Engineering (Microelectronics)** | Moscow Institute of Electronics and Mathematics |
 
