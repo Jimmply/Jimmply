@@ -4,7 +4,15 @@
 
 4+ years building production ML and LLM systems on industrial sensor data (0.5–1 TB scale) across laser cutting, welding, CNC milling, and additive manufacturing. Reduced unplanned equipment downtime 10–15% at Laseronics LLC — an AS9100-certified, ITAR-registered precision laser shop serving aerospace OEMs and space systems integrators.
 
-M.S. Engineering (Microelectronics) · Data Science, UCLA Extension · Northridge, CA
+---
+
+## Education & Certifications
+
+| | |
+|---|---|
+| **B.S. Data Science** | UCLA (in progress, Spring 2027) |
+| **Data Science Certificate** | UCLA Extension — 2026 |
+| **M.S. Engineering (Microelectronics)** | Moscow Institute of Electronics and Mathematics |
 
 ---
 
@@ -72,8 +80,6 @@ M.S. Engineering (Microelectronics) · Data Science, UCLA Extension · Northridg
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-
 
 ---
 
