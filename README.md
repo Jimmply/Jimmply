@@ -26,6 +26,7 @@
 | [**weld-quality-classifier**](https://github.com/Jimmply/weld-quality-classifier) | 5-class laser weld quality prediction with SHAP waterfall — explains which process parameter caused each defect | XGBoost · SHAP · Streamlit |
 | [**additive-process-monitor**](https://github.com/Jimmply/additive-process-monitor) | Layer-by-layer FDM printer failure detection (Clog/Warping/Stringing/Delamination) — ~90% accuracy, health score per layer | XGBoost · Scikit-learn · Streamlit |
 | [**anomaly-detection-dashboard**](https://github.com/Jimmply/anomaly-detection-dashboard) | Real-time industrial sensor anomaly detection — 4 algorithms (Z-score, IQR, Isolation Forest, DBSCAN), pluggable PyOD interface | Scikit-learn · PyOD · Streamlit |
+| [**milling-weld-quality-predictor**](https://github.com/Jimmply/milling-weld-quality-predictor) | Two-stage cascade pipeline: CNC milling surface quality feeds downstream laser weld quality prediction, with SHAP explainability | XGBoost · SHAP · Streamlit |
 
 ### LSR Welding / Laseronics — Domain-Specific Systems
 
