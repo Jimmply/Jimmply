@@ -18,6 +18,7 @@
 | [anomaly-detection-dashboard](https://github.com/Jimmply/anomaly-detection-dashboard) | Multi-algorithm industrial sensor anomaly detection |
 | [rag-manufacturing-qa](https://github.com/Jimmply/rag-manufacturing-qa) | RAG over manufacturing SOPs and maintenance docs |
 | [as9100-quality-tracker](https://github.com/Jimmply/as9100-quality-tracker) | AS9100 shop floor dashboard — FPY, OTD, NCR traceability |
+| [customer-growth-forecasting](https://github.com/Jimmply/customer-growth-forecasting) | ARIMA vs Prophet vs XGBoost holdout comparison — Prophet best (MAE 1,781) |
 
 ## Stack
 
