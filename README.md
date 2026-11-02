@@ -1,8 +1,8 @@
-# Dmitry Shurkhai
+# Dmitrii (Dima) Shurkhai
 
 **Manufacturing Data Scientist** — IIoT · Predictive Quality · LLM Pipelines · Aerospace
 
-4+ years building ML and LLM systems on industrial sensor data at **Laseronics LLC** (AS9100 / ITAR aerospace laser shop). M.S. Data Science at UCLA, in progress.
+4+ years building analytics, ML and LLM systems on manufacturing and sensor data, currently as a Data Scientist at **Laseronics LLC** (AS9100 / ITAR aerospace laser shop). M.S. Data Science at UCLA, in progress.
 
 ## Flagship projects
 
@@ -25,11 +25,14 @@ Survival analysis + station-attribution SHAP on the full **14 GB · 1.18M-part**
 | [anomaly-detection-dashboard](https://github.com/Jimmply/anomaly-detection-dashboard) | Multi-algorithm industrial sensor anomaly detection (Z-score, IQR, Isolation Forest, DBSCAN) |
 | [as9100-quality-tracker](https://github.com/Jimmply/as9100-quality-tracker) | AS9100 shop-floor dashboard — FPY, OTD, NCR traceability, modeled on real aerospace laser operations |
 | [laser-parameter-optimizer](https://github.com/Jimmply/laser-parameter-optimizer) | XGBoost surrogate + scipy optimization for Nd:YAG weld parameters across 7 aerospace alloys |
+| [weld-ml-service](https://github.com/Jimmply/weld-ml-service) | Weld-quality model shipped as a FastAPI service: Pydantic validation, Prometheus metrics, multi-stage Docker, CI smoke test |
+| [weld-defect-vision](https://github.com/Jimmply/weld-defect-vision) | YOLOv8 instance segmentation of weld defects on radiographs, with leak-free weld-session splits |
+| [laser-mark-inspector](https://github.com/Jimmply/laser-mark-inspector) | QC for laser-marked DataMatrix codes: ISO/IEC TR 29158 grading plus a root-cause model for hidden process faults |
 | [rag-manufacturing-qa](https://github.com/Jimmply/rag-manufacturing-qa) | RAG over manufacturing SOPs and maintenance docs (LangChain + ChromaDB) |
 
 ## Stack
 
-Python · XGBoost · scikit-learn · PyTorch · SHAP · LangChain · ChromaDB · Streamlit · pandas · pyarrow · SQL · Spark · Airflow · Docker · AWS
+Python · XGBoost · scikit-learn · PyTorch · SHAP · LangChain · ChromaDB · Streamlit · pandas · pyarrow · SQL · FastAPI · Docker
 
 ## Education
 
