@@ -1,4 +1,4 @@
-# Dmitrii (Dima) Shurkhai
+# Dmitrii Shurkhai
 
 **Manufacturing Data Scientist** — IIoT · Predictive Quality · LLM Pipelines · Aerospace
 
