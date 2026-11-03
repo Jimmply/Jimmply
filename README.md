@@ -2,7 +2,7 @@
 
 **Manufacturing Data Scientist** — IIoT · Predictive Quality · LLM Pipelines · Aerospace
 
-4+ years building analytics, ML and LLM systems on manufacturing and sensor data, currently as a Data Scientist at **Laseronics LLC** (AS9100 / ITAR aerospace laser shop). M.S. Data Science at UCLA, in progress.
+Nearly 6 years building analytics, ML and LLM systems on manufacturing and sensor data, currently as a Data Scientist at **Laseronics LLC** (AS9100 / ITAR aerospace laser shop). M.S. Data Science at UCLA, in progress.
 
 ## Flagship projects
 
@@ -10,7 +10,7 @@
 Multi-provider LLM diagnostics pipeline (Claude · Gemini · OpenAI · Ollama) for laser-welding machine logs. Anomaly detection → failure-window extraction → LLM root-cause classification → maintenance report. CLI + Streamlit dashboard. ![CI](https://github.com/Jimmply/manufacturing-log-analyzer/actions/workflows/ci.yml/badge.svg)
 
 ### 📊 [bosch-production-fault-predictor](https://github.com/Jimmply/bosch-production-fault-predictor)
-Survival analysis + station-attribution SHAP on the full **14 GB · 1.18M-part** Bosch dataset. Five documented experiments (Optuna tuning, time-aware CV, drift diagnostic, windowed retraining, drift-aware features) — honest negative results included. Reveals that stratified-k-fold was leaking ~0.30 AUC and that the drift is in **P(y\|x)**, not P(x). ![CI](https://github.com/Jimmply/bosch-production-fault-predictor/actions/workflows/ci.yml/badge.svg)
+Survival analysis + station-attribution SHAP on the full **14 GB · 1.18M-part** Bosch dataset. Five documented experiments (Optuna tuning, time-aware CV, drift diagnostic, windowed retraining, drift-aware features) — honest negative results included. Reveals that stratified-k-fold was leaking ~0.15 AUC and that the drift is in **P(y\|x)**, not P(x). ![CI](https://github.com/Jimmply/bosch-production-fault-predictor/actions/workflows/ci.yml/badge.svg)
 
 ### ⚙️ [cnc-calibrator](https://github.com/Jimmply/cnc-calibrator)
 4-element GRBL calibration wizard with closed-loop encoder verification, tolerance-based retry, dry-run G-code preview, and a built-in simulator. 24 tests on three Python versions. ![CI](https://github.com/Jimmply/cnc-calibrator/actions/workflows/ci.yml/badge.svg)
@@ -32,7 +32,7 @@ Survival analysis + station-attribution SHAP on the full **14 GB · 1.18M-part**
 
 ## Stack
 
-Python · XGBoost · scikit-learn · PyTorch · SHAP · LangChain · ChromaDB · Streamlit · pandas · pyarrow · SQL · FastAPI · Docker
+Python · XGBoost · scikit-learn · PyTorch · SHAP · LangChain · ChromaDB · Streamlit · pandas · pyarrow · SQL · Spark · Airflow · FastAPI · Docker · AWS
 
 ## Education
 
